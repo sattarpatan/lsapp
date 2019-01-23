@@ -1,4 +1,3 @@
-# lsapp
 <h1>LSAPP - Laravel From Scratch</h1>
 
 <p>This is the source code for the "Laravel From Scratch" by Abdul Sattar Patan.</p>
